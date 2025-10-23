@@ -1,22 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Miconijefico/Miconijefico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am from Croatia (Central European Time Zone).
+Student about to finish a bachelors degree in Software Engineering at [University of Algebra Bernays](https://www.algebra.hr/sveuciliste/en).
+<p>How many bricks does it take to build an average house?</p>
 
-Here are some ideas to get you started:
+## I am currently working on
+Control a video game with your mind😵.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronons: ...
-- ⚡ Fun fact: ...
--->
+## I am currently learning
+<img src="assets/Flag_of_Denmark.svg.webp" width=50 height=50></img>
 
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miconijefico&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miconijefico&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Free time
+📖 [Fundamentals of Air Traffic Control by Michael S. Nolan](https://share.google/98tF0woUXDj7VNvDd)
+
+## Best Skills
+<img src="assets/spring.png" width=50 height=50> <img src="assets/c++.svg" width=50 height=50> <img src="assets/csharp.png" width=50 height=50> <img src="assets/python.svg" width=50 height=50> <img src="assets/godot.svg" width=50 height=50>
